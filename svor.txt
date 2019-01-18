@@ -1,0 +1,5 @@
+1:
+cd - færir sig um directory
+ls - sýnir innihald skrána sem notandin er í
+pwd - sýnir staðinn sem notandin er í
+mkdir - býr til nýja skrá
