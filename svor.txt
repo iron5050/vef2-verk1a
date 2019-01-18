@@ -8,3 +8,8 @@ mkdir - býr til nýja skrá
 git clone: afritar eða klónar repository
 git status: sýnir upplýsingar um ástand og breytingar í skjalinu sem notandin er í 
 git diff: þegar sett í gang þá keyrir það diff stillingu á git
+
+3:
+git log: þú nærð í kommitin 
+git checkout: tekur commit og býr til annað eintak af því í trénu
+git branch: það er bendill sem bendir á það sem þú gerðir seinast?
