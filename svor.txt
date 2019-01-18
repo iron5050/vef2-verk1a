@@ -22,3 +22,6 @@ git er gott til að geyma og vinna með skjölin þín á tölvunni
 
 6:
 eins oft og það þarf eða eins og í þessu tilviki 7 skipti
+
+7:
+staging area leyfir þér að breyta commit í staging settinu og working directory er staðurinn sem hefur git skjalið
