@@ -13,3 +13,7 @@ git diff: þegar sett í gang þá keyrir það diff stillingu á git
 git log: þú nærð í kommitin 
 git checkout: tekur commit og býr til annað eintak af því í trénu
 git branch: það er bendill sem bendir á það sem þú gerðir seinast?
+
+4:
+version control er kerfi sem heldur upplýsingar um breytingar í skjölunum í tölvuni og leyfa mörgu fólki að vinna í því á samatíma
+
