@@ -17,3 +17,5 @@ git branch: það er bendill sem bendir á það sem þú gerðir seinast?
 4:
 version control er kerfi sem heldur upplýsingar um breytingar í skjölunum í tölvuni og leyfa mörgu fólki að vinna í því á samatíma
 
+5: 
+git er gott til að geyma og vinna með skjölin þín á tölvunni
