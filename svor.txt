@@ -3,3 +3,8 @@ cd - færir sig um directory
 ls - sýnir innihald skrána sem notandin er í
 pwd - sýnir staðinn sem notandin er í
 mkdir - býr til nýja skrá
+
+2:
+git clone: afritar eða klónar repository
+git status: sýnir upplýsingar um ástand og breytingar í skjalinu sem notandin er í 
+git diff: þegar sett í gang þá keyrir það diff stillingu á git
