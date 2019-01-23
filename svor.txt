@@ -19,3 +19,5 @@ version control er kerfi sem heldur upplýsingar um breytingar í skjölunum í tölv
 
 5: 
 git er gott til að geyma og vinna með skjölin þín á tölvunni
+
+álit ?"?"?
